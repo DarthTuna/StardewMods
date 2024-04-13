@@ -1,4 +1,14 @@
 ﻿{
+  // Chest Info
+  "chest-info.name": "Name",
+  "chest-info.type": "Typ",
+  "chest-info.location": "Ort",
+  "chest-info.position": "Position",
+  "chest-info.inventory": "Inventar",
+  "chest-info.total-items": "Gesamt-Items",
+  "chest-info.unique-items": "Einzigartige Items",
+  "chest-info.total-value": "Gesamtwert",
+  // UI - Tabs
   "tabs.Clothing.name": "Kleidung",
   "tabs.Cooking.name": "Kochen",
   "tabs.Crops.name": "Nutzpflanzen",
